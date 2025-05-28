@@ -1,0 +1,472 @@
+[
+  {
+    "tag": "h2",
+    "text": "¿Quieres saber\na qué huele tu marca?",
+    "html": "¿Quieres saber<br>\na qué huele tu marca?"
+  },
+  {
+    "tag": "h2",
+    "text": "Escríbeme y te cuento",
+    "html": "Escríbeme y te cuento"
+  },
+  {
+    "tag": "h2",
+    "text": "¿Quieres saber\na qué huele \ntu marca?",
+    "html": "¿Quieres saber<br>\na qué huele \n<br>tu marca?"
+  },
+  {
+    "tag": "h2",
+    "text": "Escríbeme \ny te cuento",
+    "html": "Escríbeme <br>\ny te cuento"
+  },
+  {
+    "tag": "h2",
+    "text": "¿Sabías que el olfato es el sentido con mayor recordación?",
+    "html": "<span class=\"subtitulo-azul-naser\">¿Sabías que el olfato es el sentido con mayor recordación?</span>"
+  },
+  {
+    "tag": "h2",
+    "text": "Los humanos pueden diferenciar un mínimo de un billón de olores y respiran alrededor de veinte mil veces al día.",
+    "html": "Los humanos pueden diferenciar\nun mínimo de un billón de olores y respiran\nalrededor de veinte mil veces al día."
+  },
+  {
+    "tag": "h6",
+    "text": "Universidad de Rutgers, Universidad de Harvard EE.UU",
+    "html": "Universidad de Rutgers, Universidad de Harvard EE.UU"
+  },
+  {
+    "tag": "h2",
+    "text": "*Estas perdiendo 20.000 oportunidades de conectar con tus clientes*",
+    "html": "*Estas perdiendo 20.000 oportunidades\nde conectar con tus clientes*"
+  },
+  {
+    "tag": "h1",
+    "text": "Crea ya tu marca olfativa y supera tu competencia",
+    "html": "Crea ya tu marca olfativa y supera tu competencia"
+  },
+  {
+    "tag": "h1",
+    "text": "En sólo tres pasos",
+    "html": "En sólo tres pasos"
+  },
+  {
+    "tag": "h1",
+    "text": "¡Haremos tu marca MEMORABLE!",
+    "html": "¡Haremos tu marca MEMORABLE!"
+  },
+  {
+    "tag": "h1",
+    "text": "Las empresas que tienen MARCA OLFATIVA",
+    "html": "Las empresas que tienen MARCA OLFATIVA"
+  },
+  {
+    "tag": "h2",
+    "text": "aumentan sus ventas en más del 35%",
+    "html": "<span class=\"subtitulo-azul-naser\">aumentan sus ventas en más del 35%</span>"
+  },
+  {
+    "tag": "div",
+    "text": "",
+    "html": "<figure class=\"swiper-slide-inner\"><img decoding=\"async\" class=\"swiper-slide-image\" src=\"https://naserpublicidad.org/wp-content/uploads/2023/03/dormi-luna.png\" alt=\"\"></figure>"
+  },
+  {
+    "tag": "figure",
+    "text": "",
+    "html": "<img decoding=\"async\" class=\"swiper-slide-image\" src=\"https://naserpublicidad.org/wp-content/uploads/2023/03/dormi-luna.png\" alt=\"\">"
+  },
+  {
+    "tag": "img",
+    "text": "",
+    "html": ""
+  },
+  {
+    "tag": "div",
+    "text": "",
+    "html": "<figure class=\"swiper-slide-inner\"><img decoding=\"async\" class=\"swiper-slide-image\" src=\"https://naserpublicidad.org/wp-content/uploads/2023/03/garmin-4.png\" alt=\"\"></figure>"
+  },
+  {
+    "tag": "figure",
+    "text": "",
+    "html": "<img decoding=\"async\" class=\"swiper-slide-image\" src=\"https://naserpublicidad.org/wp-content/uploads/2023/03/garmin-4.png\" alt=\"\">"
+  },
+  {
+    "tag": "img",
+    "text": "",
+    "html": ""
+  },
+  {
+    "tag": "div",
+    "text": "",
+    "html": "<figure class=\"swiper-slide-inner\"><img decoding=\"async\" class=\"swiper-slide-image\" src=\"https://naserpublicidad.org/wp-content/uploads/2023/03/tramontina-3.png\" alt=\"\"></figure>"
+  },
+  {
+    "tag": "figure",
+    "text": "",
+    "html": "<img decoding=\"async\" class=\"swiper-slide-image\" src=\"https://naserpublicidad.org/wp-content/uploads/2023/03/tramontina-3.png\" alt=\"\">"
+  },
+  {
+    "tag": "img",
+    "text": "",
+    "html": ""
+  },
+  {
+    "tag": "div",
+    "text": "",
+    "html": "<figure class=\"swiper-slide-inner\"><img decoding=\"async\" class=\"swiper-slide-image\" src=\"https://naserpublicidad.org/wp-content/uploads/2023/03/karoshy.png\" alt=\"\"></figure>"
+  },
+  {
+    "tag": "figure",
+    "text": "",
+    "html": "<img decoding=\"async\" class=\"swiper-slide-image\" src=\"https://naserpublicidad.org/wp-content/uploads/2023/03/karoshy.png\" alt=\"\">"
+  },
+  {
+    "tag": "img",
+    "text": "",
+    "html": ""
+  },
+  {
+    "tag": "div",
+    "text": "",
+    "html": "<figure class=\"swiper-slide-inner\"><img decoding=\"async\" class=\"swiper-slide-image\" src=\"https://naserpublicidad.org/wp-content/uploads/2023/03/centro-de-idiomas.png\" alt=\"\"></figure>"
+  },
+  {
+    "tag": "figure",
+    "text": "",
+    "html": "<img decoding=\"async\" class=\"swiper-slide-image\" src=\"https://naserpublicidad.org/wp-content/uploads/2023/03/centro-de-idiomas.png\" alt=\"\">"
+  },
+  {
+    "tag": "img",
+    "text": "",
+    "html": ""
+  },
+  {
+    "tag": "div",
+    "text": "",
+    "html": "<figure class=\"swiper-slide-inner\"><img decoding=\"async\" class=\"swiper-slide-image\" src=\"https://naserpublicidad.org/wp-content/uploads/2023/03/platzi.png\" alt=\"\"></figure>"
+  },
+  {
+    "tag": "figure",
+    "text": "",
+    "html": "<img decoding=\"async\" class=\"swiper-slide-image\" src=\"https://naserpublicidad.org/wp-content/uploads/2023/03/platzi.png\" alt=\"\">"
+  },
+  {
+    "tag": "img",
+    "text": "",
+    "html": ""
+  },
+  {
+    "tag": "div",
+    "text": "",
+    "html": "<figure class=\"swiper-slide-inner\"><img decoding=\"async\" class=\"swiper-slide-image\" src=\"https://naserpublicidad.org/wp-content/uploads/2023/03/dormi-luna.png\" alt=\"\"></figure>"
+  },
+  {
+    "tag": "figure",
+    "text": "",
+    "html": "<img decoding=\"async\" class=\"swiper-slide-image\" src=\"https://naserpublicidad.org/wp-content/uploads/2023/03/dormi-luna.png\" alt=\"\">"
+  },
+  {
+    "tag": "img",
+    "text": "",
+    "html": ""
+  },
+  {
+    "tag": "div",
+    "text": "",
+    "html": "<figure class=\"swiper-slide-inner\"><img decoding=\"async\" class=\"swiper-slide-image\" src=\"https://naserpublicidad.org/wp-content/uploads/2023/03/garmin-4.png\" alt=\"\"></figure>"
+  },
+  {
+    "tag": "figure",
+    "text": "",
+    "html": "<img decoding=\"async\" class=\"swiper-slide-image\" src=\"https://naserpublicidad.org/wp-content/uploads/2023/03/garmin-4.png\" alt=\"\">"
+  },
+  {
+    "tag": "img",
+    "text": "",
+    "html": ""
+  },
+  {
+    "tag": "div",
+    "text": "",
+    "html": "<figure class=\"swiper-slide-inner\"><img decoding=\"async\" class=\"swiper-slide-image\" src=\"https://naserpublicidad.org/wp-content/uploads/2023/03/tramontina-3.png\" alt=\"\"></figure>"
+  },
+  {
+    "tag": "figure",
+    "text": "",
+    "html": "<img decoding=\"async\" class=\"swiper-slide-image\" src=\"https://naserpublicidad.org/wp-content/uploads/2023/03/tramontina-3.png\" alt=\"\">"
+  },
+  {
+    "tag": "img",
+    "text": "",
+    "html": ""
+  },
+  {
+    "tag": "div",
+    "text": "",
+    "html": "<figure class=\"swiper-slide-inner\"><img decoding=\"async\" class=\"swiper-slide-image\" src=\"https://naserpublicidad.org/wp-content/uploads/2023/03/karoshy.png\" alt=\"\"></figure>"
+  },
+  {
+    "tag": "figure",
+    "text": "",
+    "html": "<img decoding=\"async\" class=\"swiper-slide-image\" src=\"https://naserpublicidad.org/wp-content/uploads/2023/03/karoshy.png\" alt=\"\">"
+  },
+  {
+    "tag": "img",
+    "text": "",
+    "html": ""
+  },
+  {
+    "tag": "div",
+    "text": "",
+    "html": "<figure class=\"swiper-slide-inner\"><img decoding=\"async\" class=\"swiper-slide-image\" src=\"https://naserpublicidad.org/wp-content/uploads/2023/03/centro-de-idiomas.png\" alt=\"\"></figure>"
+  },
+  {
+    "tag": "figure",
+    "text": "",
+    "html": "<img decoding=\"async\" class=\"swiper-slide-image\" src=\"https://naserpublicidad.org/wp-content/uploads/2023/03/centro-de-idiomas.png\" alt=\"\">"
+  },
+  {
+    "tag": "img",
+    "text": "",
+    "html": ""
+  },
+  {
+    "tag": "div",
+    "text": "",
+    "html": "<figure class=\"swiper-slide-inner\"><img decoding=\"async\" class=\"swiper-slide-image\" src=\"https://naserpublicidad.org/wp-content/uploads/2023/03/platzi.png\" alt=\"\"></figure>"
+  },
+  {
+    "tag": "figure",
+    "text": "",
+    "html": "<img decoding=\"async\" class=\"swiper-slide-image\" src=\"https://naserpublicidad.org/wp-content/uploads/2023/03/platzi.png\" alt=\"\">"
+  },
+  {
+    "tag": "img",
+    "text": "",
+    "html": ""
+  },
+  {
+    "tag": "div",
+    "text": "",
+    "html": "<figure class=\"swiper-slide-inner\"><img decoding=\"async\" class=\"swiper-slide-image\" src=\"https://naserpublicidad.org/wp-content/uploads/2023/03/dormi-luna.png\" alt=\"\"></figure>"
+  },
+  {
+    "tag": "figure",
+    "text": "",
+    "html": "<img decoding=\"async\" class=\"swiper-slide-image\" src=\"https://naserpublicidad.org/wp-content/uploads/2023/03/dormi-luna.png\" alt=\"\">"
+  },
+  {
+    "tag": "img",
+    "text": "",
+    "html": ""
+  },
+  {
+    "tag": "div",
+    "text": "",
+    "html": "<figure class=\"swiper-slide-inner\"><img decoding=\"async\" class=\"swiper-slide-image\" src=\"https://naserpublicidad.org/wp-content/uploads/2023/03/garmin-4.png\" alt=\"\"></figure>"
+  },
+  {
+    "tag": "figure",
+    "text": "",
+    "html": "<img decoding=\"async\" class=\"swiper-slide-image\" src=\"https://naserpublicidad.org/wp-content/uploads/2023/03/garmin-4.png\" alt=\"\">"
+  },
+  {
+    "tag": "img",
+    "text": "",
+    "html": ""
+  },
+  {
+    "tag": "div",
+    "text": "",
+    "html": "<figure class=\"swiper-slide-inner\"><img decoding=\"async\" class=\"swiper-slide-image\" src=\"https://naserpublicidad.org/wp-content/uploads/2023/03/tramontina-3.png\" alt=\"\"></figure>"
+  },
+  {
+    "tag": "figure",
+    "text": "",
+    "html": "<img decoding=\"async\" class=\"swiper-slide-image\" src=\"https://naserpublicidad.org/wp-content/uploads/2023/03/tramontina-3.png\" alt=\"\">"
+  },
+  {
+    "tag": "img",
+    "text": "",
+    "html": ""
+  },
+  {
+    "tag": "div",
+    "text": "",
+    "html": "<figure class=\"swiper-slide-inner\"><img decoding=\"async\" class=\"swiper-slide-image\" src=\"https://naserpublicidad.org/wp-content/uploads/2023/03/karoshy.png\" alt=\"\"></figure>"
+  },
+  {
+    "tag": "figure",
+    "text": "",
+    "html": "<img decoding=\"async\" class=\"swiper-slide-image\" src=\"https://naserpublicidad.org/wp-content/uploads/2023/03/karoshy.png\" alt=\"\">"
+  },
+  {
+    "tag": "img",
+    "text": "",
+    "html": ""
+  },
+  {
+    "tag": "div",
+    "text": "",
+    "html": "<figure class=\"swiper-slide-inner\"><img decoding=\"async\" class=\"swiper-slide-image\" src=\"https://naserpublicidad.org/wp-content/uploads/2023/03/centro-de-idiomas.png\" alt=\"\"></figure>"
+  },
+  {
+    "tag": "figure",
+    "text": "",
+    "html": "<img decoding=\"async\" class=\"swiper-slide-image\" src=\"https://naserpublicidad.org/wp-content/uploads/2023/03/centro-de-idiomas.png\" alt=\"\">"
+  },
+  {
+    "tag": "img",
+    "text": "",
+    "html": ""
+  },
+  {
+    "tag": "div",
+    "text": "",
+    "html": "<figure class=\"swiper-slide-inner\"><img decoding=\"async\" class=\"swiper-slide-image\" src=\"https://naserpublicidad.org/wp-content/uploads/2023/03/platzi.png\" alt=\"\"></figure>"
+  },
+  {
+    "tag": "figure",
+    "text": "",
+    "html": "<img decoding=\"async\" class=\"swiper-slide-image\" src=\"https://naserpublicidad.org/wp-content/uploads/2023/03/platzi.png\" alt=\"\">"
+  },
+  {
+    "tag": "img",
+    "text": "",
+    "html": ""
+  },
+  {
+    "tag": "h2",
+    "text": "Ellos son CASOS DE ÉXITO",
+    "html": "Ellos son CASOS DE ÉXITO"
+  },
+  {
+    "tag": "h1",
+    "text": "empresas que creyeron\nen NASER y ahora tienen\nmarca olfativa",
+    "html": "empresas que creyeron<br>\nen NASER y ahora tienen<br>\nmarca olfativa"
+  },
+  {
+    "tag": "h1",
+    "text": "Podemos aplicar marketing olfativo,",
+    "html": "Podemos aplicar marketing olfativo,"
+  },
+  {
+    "tag": "h2",
+    "text": "sin importar el negocio que tengas",
+    "html": "<span class=\"subtitulo-azul-naser\">sin importar el negocio que tengas</span>"
+  },
+  {
+    "tag": "h1",
+    "text": "Hoteles",
+    "html": "Hoteles"
+  },
+  {
+    "tag": "h1",
+    "text": "Oficinas",
+    "html": "Oficinas"
+  },
+  {
+    "tag": "h1",
+    "text": "Locales",
+    "html": "Locales"
+  },
+  {
+    "tag": "h1",
+    "text": "Consultorios",
+    "html": "Consultorios"
+  },
+  {
+    "tag": "h1",
+    "text": "Bancos",
+    "html": "Bancos"
+  },
+  {
+    "tag": "h1",
+    "text": "Tiendas",
+    "html": "Tiendas"
+  },
+  {
+    "tag": "h1",
+    "text": "Te contamos los beneficios,",
+    "html": "Te contamos los beneficios,"
+  },
+  {
+    "tag": "h1",
+    "text": "cuando usas marketing olfativo en tu negocio",
+    "html": "cuando usas marketing olfativo en tu negocio"
+  },
+  {
+    "tag": "h1",
+    "text": "Hagamos tu MARCA OLFATIVA",
+    "html": "Hagamos tu <strong>MARCA OLFATIVA</strong>"
+  },
+  {
+    "tag": "h1",
+    "text": "Te cuento como hacerlo en una asesoría gratuita",
+    "html": "Te cuento como hacerlo en una asesoría gratuita"
+  },
+  {
+    "tag": "h1",
+    "text": "¡Haremos tu marca MEMORABLE!",
+    "html": "¡Haremos tu marca MEMORABLE!"
+  },
+  {
+    "tag": "h2",
+    "text": "Nuestras oficinas",
+    "html": "Nuestras oficinas"
+  },
+  {
+    "tag": "div",
+    "text": "📍Bogotá, Colombia",
+    "html": "<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t<p>📍Bogotá, Colombia</p>\t\t\t\t\t\t\t\t</div>"
+  },
+  {
+    "tag": "div",
+    "text": "📍Estados Unidos, Florida",
+    "html": "<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t<p>📍Estados Unidos,&nbsp;Florida</p>\t\t\t\t\t\t\t\t</div>"
+  },
+  {
+    "tag": "h2",
+    "text": "Accesos",
+    "html": "Accesos"
+  },
+  {
+    "tag": "h2",
+    "text": "Hablemos ya",
+    "html": "Hablemos ya"
+  },
+  {
+    "tag": "h2",
+    "text": "Conéctate",
+    "html": "Conéctate"
+  },
+  {
+    "tag": "p",
+    "text": "Contacto",
+    "html": "<a href=\"https://naserpublicidad.org/contactanos/\">Contacto</a>"
+  },
+  {
+    "tag": "h2",
+    "text": "Redes Sociales",
+    "html": "Redes Sociales"
+  },
+  {
+    "tag": "p",
+    "text": "Política de privacidad",
+    "html": "<a href=\"https://naserpublicidad.org/politica-privacidad/\" target=\"_blank\">Política de privacidad</a>"
+  },
+  {
+    "tag": "p",
+    "text": "Términos de cookies",
+    "html": "Términos de cookies"
+  },
+  {
+    "tag": "p",
+    "text": "<>Créditos & licencias | Naser Publicidad",
+    "html": "&lt;&gt;Créditos &amp; licencias | Naser Publicidad"
+  },
+  {
+    "tag": "p",
+    "text": "Los precios en dólares son estimados, los precios reales serán mostrados, en el proceso de pago PayU",
+    "html": "Los precios en dólares son estimados, los precios reales serán mostrados, en el proceso de pago PayU"
+  }
+]

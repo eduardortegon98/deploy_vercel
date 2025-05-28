@@ -1,0 +1,672 @@
+[
+  {
+    "tag": "h2",
+    "text": "Somos una agencia de marketing 360 que trabaja diferente.",
+    "html": "Somos una agencia de marketing 360 que trabaja diferente."
+  },
+  {
+    "tag": "h2",
+    "text": "“Porque la publicidad no solo debe ser creativa, también debe ser efectiva”",
+    "html": "“Porque la publicidad no solo debe ser creativa, también debe ser efectiva”"
+  },
+  {
+    "tag": "h2",
+    "text": "Le hablamos a los sentidos de tus clientes para que recuerden tu marca y tus acciones se traduzcan en ventas.",
+    "html": "Le hablamos a los sentidos de tus clientes para que recuerden tu marca y tus acciones se\ntraduzcan en ventas."
+  },
+  {
+    "tag": "h2",
+    "text": "Esto haremos POR TI",
+    "html": "Esto haremos POR TI"
+  },
+  {
+    "tag": "h2",
+    "text": "Clientes que han confiado en NASER",
+    "html": "Clientes que han <span class=\"subtitulo-naranja-naser\">confiado en NASER</span>"
+  },
+  {
+    "tag": "div",
+    "text": "",
+    "html": "<figure class=\"swiper-slide-inner\"><img decoding=\"async\" class=\"swiper-slide-image\" src=\"https://naserpublicidad.org/wp-content/uploads/2023/03/logo_grupo_vinesta.png\" alt=\"\"></figure>"
+  },
+  {
+    "tag": "figure",
+    "text": "",
+    "html": "<img decoding=\"async\" class=\"swiper-slide-image\" src=\"https://naserpublicidad.org/wp-content/uploads/2023/03/logo_grupo_vinesta.png\" alt=\"\">"
+  },
+  {
+    "tag": "img",
+    "text": "",
+    "html": ""
+  },
+  {
+    "tag": "div",
+    "text": "",
+    "html": "<figure class=\"swiper-slide-inner\"><img decoding=\"async\" class=\"swiper-slide-image\" src=\"https://naserpublicidad.org/wp-content/uploads/2023/03/millenium_logo.png\" alt=\"\"></figure>"
+  },
+  {
+    "tag": "figure",
+    "text": "",
+    "html": "<img decoding=\"async\" class=\"swiper-slide-image\" src=\"https://naserpublicidad.org/wp-content/uploads/2023/03/millenium_logo.png\" alt=\"\">"
+  },
+  {
+    "tag": "img",
+    "text": "",
+    "html": ""
+  },
+  {
+    "tag": "div",
+    "text": "",
+    "html": "<figure class=\"swiper-slide-inner\"><img decoding=\"async\" class=\"swiper-slide-image\" src=\"https://naserpublicidad.org/wp-content/uploads/2023/03/money_gram.png\" alt=\"\"></figure>"
+  },
+  {
+    "tag": "figure",
+    "text": "",
+    "html": "<img decoding=\"async\" class=\"swiper-slide-image\" src=\"https://naserpublicidad.org/wp-content/uploads/2023/03/money_gram.png\" alt=\"\">"
+  },
+  {
+    "tag": "img",
+    "text": "",
+    "html": ""
+  },
+  {
+    "tag": "div",
+    "text": "",
+    "html": "<figure class=\"swiper-slide-inner\"><img decoding=\"async\" class=\"swiper-slide-image\" src=\"https://naserpublicidad.org/wp-content/uploads/2023/03/noticias_uno_logo.png\" alt=\"\"></figure>"
+  },
+  {
+    "tag": "figure",
+    "text": "",
+    "html": "<img decoding=\"async\" class=\"swiper-slide-image\" src=\"https://naserpublicidad.org/wp-content/uploads/2023/03/noticias_uno_logo.png\" alt=\"\">"
+  },
+  {
+    "tag": "img",
+    "text": "",
+    "html": ""
+  },
+  {
+    "tag": "div",
+    "text": "",
+    "html": "<figure class=\"swiper-slide-inner\"><img decoding=\"async\" class=\"swiper-slide-image\" src=\"https://naserpublicidad.org/wp-content/uploads/2023/03/platzi_logo.png\" alt=\"\"></figure>"
+  },
+  {
+    "tag": "figure",
+    "text": "",
+    "html": "<img decoding=\"async\" class=\"swiper-slide-image\" src=\"https://naserpublicidad.org/wp-content/uploads/2023/03/platzi_logo.png\" alt=\"\">"
+  },
+  {
+    "tag": "img",
+    "text": "",
+    "html": ""
+  },
+  {
+    "tag": "div",
+    "text": "",
+    "html": "<figure class=\"swiper-slide-inner\"><img decoding=\"async\" class=\"swiper-slide-image\" src=\"https://naserpublicidad.org/wp-content/uploads/2023/03/qube_system_logo-1.png\" alt=\"\"></figure>"
+  },
+  {
+    "tag": "figure",
+    "text": "",
+    "html": "<img decoding=\"async\" class=\"swiper-slide-image\" src=\"https://naserpublicidad.org/wp-content/uploads/2023/03/qube_system_logo-1.png\" alt=\"\">"
+  },
+  {
+    "tag": "img",
+    "text": "",
+    "html": ""
+  },
+  {
+    "tag": "div",
+    "text": "",
+    "html": "<figure class=\"swiper-slide-inner\"><img decoding=\"async\" class=\"swiper-slide-image\" src=\"https://naserpublicidad.org/wp-content/uploads/2023/03/trans_am_logo-1.png\" alt=\"\"></figure>"
+  },
+  {
+    "tag": "figure",
+    "text": "",
+    "html": "<img decoding=\"async\" class=\"swiper-slide-image\" src=\"https://naserpublicidad.org/wp-content/uploads/2023/03/trans_am_logo-1.png\" alt=\"\">"
+  },
+  {
+    "tag": "img",
+    "text": "",
+    "html": ""
+  },
+  {
+    "tag": "div",
+    "text": "",
+    "html": "<figure class=\"swiper-slide-inner\"><img decoding=\"async\" class=\"swiper-slide-image\" src=\"https://naserpublicidad.org/wp-content/uploads/2023/03/BDO-logo-1.png\" alt=\"\"></figure>"
+  },
+  {
+    "tag": "figure",
+    "text": "",
+    "html": "<img decoding=\"async\" class=\"swiper-slide-image\" src=\"https://naserpublicidad.org/wp-content/uploads/2023/03/BDO-logo-1.png\" alt=\"\">"
+  },
+  {
+    "tag": "img",
+    "text": "",
+    "html": ""
+  },
+  {
+    "tag": "div",
+    "text": "",
+    "html": "<figure class=\"swiper-slide-inner\"><img decoding=\"async\" class=\"swiper-slide-image\" src=\"https://naserpublicidad.org/wp-content/uploads/2023/03/quiroga_abogados_logo.png\" alt=\"\"></figure>"
+  },
+  {
+    "tag": "figure",
+    "text": "",
+    "html": "<img decoding=\"async\" class=\"swiper-slide-image\" src=\"https://naserpublicidad.org/wp-content/uploads/2023/03/quiroga_abogados_logo.png\" alt=\"\">"
+  },
+  {
+    "tag": "img",
+    "text": "",
+    "html": ""
+  },
+  {
+    "tag": "div",
+    "text": "",
+    "html": "<figure class=\"swiper-slide-inner\"><img decoding=\"async\" class=\"swiper-slide-image\" src=\"https://naserpublicidad.org/wp-content/uploads/2023/03/samsumg-logo.png\" alt=\"\"></figure>"
+  },
+  {
+    "tag": "figure",
+    "text": "",
+    "html": "<img decoding=\"async\" class=\"swiper-slide-image\" src=\"https://naserpublicidad.org/wp-content/uploads/2023/03/samsumg-logo.png\" alt=\"\">"
+  },
+  {
+    "tag": "img",
+    "text": "",
+    "html": ""
+  },
+  {
+    "tag": "div",
+    "text": "",
+    "html": "<figure class=\"swiper-slide-inner\"><img decoding=\"async\" class=\"swiper-slide-image\" src=\"https://naserpublicidad.org/wp-content/uploads/2023/03/dhl_logo-1.png\" alt=\"\"></figure>"
+  },
+  {
+    "tag": "figure",
+    "text": "",
+    "html": "<img decoding=\"async\" class=\"swiper-slide-image\" src=\"https://naserpublicidad.org/wp-content/uploads/2023/03/dhl_logo-1.png\" alt=\"\">"
+  },
+  {
+    "tag": "img",
+    "text": "",
+    "html": ""
+  },
+  {
+    "tag": "div",
+    "text": "",
+    "html": "<figure class=\"swiper-slide-inner\"><img decoding=\"async\" class=\"swiper-slide-image\" src=\"https://naserpublicidad.org/wp-content/uploads/2023/03/invest-logo.png\" alt=\"\"></figure>"
+  },
+  {
+    "tag": "figure",
+    "text": "",
+    "html": "<img decoding=\"async\" class=\"swiper-slide-image\" src=\"https://naserpublicidad.org/wp-content/uploads/2023/03/invest-logo.png\" alt=\"\">"
+  },
+  {
+    "tag": "img",
+    "text": "",
+    "html": ""
+  },
+  {
+    "tag": "div",
+    "text": "",
+    "html": "<figure class=\"swiper-slide-inner\"><img decoding=\"async\" class=\"swiper-slide-image\" src=\"https://naserpublicidad.org/wp-content/uploads/2023/03/logo_grupo_vinesta.png\" alt=\"\"></figure>"
+  },
+  {
+    "tag": "figure",
+    "text": "",
+    "html": "<img decoding=\"async\" class=\"swiper-slide-image\" src=\"https://naserpublicidad.org/wp-content/uploads/2023/03/logo_grupo_vinesta.png\" alt=\"\">"
+  },
+  {
+    "tag": "img",
+    "text": "",
+    "html": ""
+  },
+  {
+    "tag": "div",
+    "text": "",
+    "html": "<figure class=\"swiper-slide-inner\"><img decoding=\"async\" class=\"swiper-slide-image\" src=\"https://naserpublicidad.org/wp-content/uploads/2023/03/millenium_logo.png\" alt=\"\"></figure>"
+  },
+  {
+    "tag": "figure",
+    "text": "",
+    "html": "<img decoding=\"async\" class=\"swiper-slide-image\" src=\"https://naserpublicidad.org/wp-content/uploads/2023/03/millenium_logo.png\" alt=\"\">"
+  },
+  {
+    "tag": "img",
+    "text": "",
+    "html": ""
+  },
+  {
+    "tag": "div",
+    "text": "",
+    "html": "<figure class=\"swiper-slide-inner\"><img decoding=\"async\" class=\"swiper-slide-image\" src=\"https://naserpublicidad.org/wp-content/uploads/2023/03/money_gram.png\" alt=\"\"></figure>"
+  },
+  {
+    "tag": "figure",
+    "text": "",
+    "html": "<img decoding=\"async\" class=\"swiper-slide-image\" src=\"https://naserpublicidad.org/wp-content/uploads/2023/03/money_gram.png\" alt=\"\">"
+  },
+  {
+    "tag": "img",
+    "text": "",
+    "html": ""
+  },
+  {
+    "tag": "div",
+    "text": "",
+    "html": "<figure class=\"swiper-slide-inner\"><img decoding=\"async\" class=\"swiper-slide-image\" src=\"https://naserpublicidad.org/wp-content/uploads/2023/03/noticias_uno_logo.png\" alt=\"\"></figure>"
+  },
+  {
+    "tag": "figure",
+    "text": "",
+    "html": "<img decoding=\"async\" class=\"swiper-slide-image\" src=\"https://naserpublicidad.org/wp-content/uploads/2023/03/noticias_uno_logo.png\" alt=\"\">"
+  },
+  {
+    "tag": "img",
+    "text": "",
+    "html": ""
+  },
+  {
+    "tag": "div",
+    "text": "",
+    "html": "<figure class=\"swiper-slide-inner\"><img decoding=\"async\" class=\"swiper-slide-image\" src=\"https://naserpublicidad.org/wp-content/uploads/2023/03/platzi_logo.png\" alt=\"\"></figure>"
+  },
+  {
+    "tag": "figure",
+    "text": "",
+    "html": "<img decoding=\"async\" class=\"swiper-slide-image\" src=\"https://naserpublicidad.org/wp-content/uploads/2023/03/platzi_logo.png\" alt=\"\">"
+  },
+  {
+    "tag": "img",
+    "text": "",
+    "html": ""
+  },
+  {
+    "tag": "div",
+    "text": "",
+    "html": "<figure class=\"swiper-slide-inner\"><img decoding=\"async\" class=\"swiper-slide-image\" src=\"https://naserpublicidad.org/wp-content/uploads/2023/03/qube_system_logo-1.png\" alt=\"\"></figure>"
+  },
+  {
+    "tag": "figure",
+    "text": "",
+    "html": "<img decoding=\"async\" class=\"swiper-slide-image\" src=\"https://naserpublicidad.org/wp-content/uploads/2023/03/qube_system_logo-1.png\" alt=\"\">"
+  },
+  {
+    "tag": "img",
+    "text": "",
+    "html": ""
+  },
+  {
+    "tag": "div",
+    "text": "",
+    "html": "<figure class=\"swiper-slide-inner\"><img decoding=\"async\" class=\"swiper-slide-image\" src=\"https://naserpublicidad.org/wp-content/uploads/2023/03/trans_am_logo-1.png\" alt=\"\"></figure>"
+  },
+  {
+    "tag": "figure",
+    "text": "",
+    "html": "<img decoding=\"async\" class=\"swiper-slide-image\" src=\"https://naserpublicidad.org/wp-content/uploads/2023/03/trans_am_logo-1.png\" alt=\"\">"
+  },
+  {
+    "tag": "img",
+    "text": "",
+    "html": ""
+  },
+  {
+    "tag": "div",
+    "text": "",
+    "html": "<figure class=\"swiper-slide-inner\"><img decoding=\"async\" class=\"swiper-slide-image\" src=\"https://naserpublicidad.org/wp-content/uploads/2023/03/BDO-logo-1.png\" alt=\"\"></figure>"
+  },
+  {
+    "tag": "figure",
+    "text": "",
+    "html": "<img decoding=\"async\" class=\"swiper-slide-image\" src=\"https://naserpublicidad.org/wp-content/uploads/2023/03/BDO-logo-1.png\" alt=\"\">"
+  },
+  {
+    "tag": "img",
+    "text": "",
+    "html": ""
+  },
+  {
+    "tag": "div",
+    "text": "",
+    "html": "<figure class=\"swiper-slide-inner\"><img decoding=\"async\" class=\"swiper-slide-image\" src=\"https://naserpublicidad.org/wp-content/uploads/2023/03/quiroga_abogados_logo.png\" alt=\"\"></figure>"
+  },
+  {
+    "tag": "figure",
+    "text": "",
+    "html": "<img decoding=\"async\" class=\"swiper-slide-image\" src=\"https://naserpublicidad.org/wp-content/uploads/2023/03/quiroga_abogados_logo.png\" alt=\"\">"
+  },
+  {
+    "tag": "img",
+    "text": "",
+    "html": ""
+  },
+  {
+    "tag": "div",
+    "text": "",
+    "html": "<figure class=\"swiper-slide-inner\"><img decoding=\"async\" class=\"swiper-slide-image\" src=\"https://naserpublicidad.org/wp-content/uploads/2023/03/samsumg-logo.png\" alt=\"\"></figure>"
+  },
+  {
+    "tag": "figure",
+    "text": "",
+    "html": "<img decoding=\"async\" class=\"swiper-slide-image\" src=\"https://naserpublicidad.org/wp-content/uploads/2023/03/samsumg-logo.png\" alt=\"\">"
+  },
+  {
+    "tag": "img",
+    "text": "",
+    "html": ""
+  },
+  {
+    "tag": "div",
+    "text": "",
+    "html": "<figure class=\"swiper-slide-inner\"><img decoding=\"async\" class=\"swiper-slide-image\" src=\"https://naserpublicidad.org/wp-content/uploads/2023/03/dhl_logo-1.png\" alt=\"\"></figure>"
+  },
+  {
+    "tag": "figure",
+    "text": "",
+    "html": "<img decoding=\"async\" class=\"swiper-slide-image\" src=\"https://naserpublicidad.org/wp-content/uploads/2023/03/dhl_logo-1.png\" alt=\"\">"
+  },
+  {
+    "tag": "img",
+    "text": "",
+    "html": ""
+  },
+  {
+    "tag": "div",
+    "text": "",
+    "html": "<figure class=\"swiper-slide-inner\"><img decoding=\"async\" class=\"swiper-slide-image\" src=\"https://naserpublicidad.org/wp-content/uploads/2023/03/invest-logo.png\" alt=\"\"></figure>"
+  },
+  {
+    "tag": "figure",
+    "text": "",
+    "html": "<img decoding=\"async\" class=\"swiper-slide-image\" src=\"https://naserpublicidad.org/wp-content/uploads/2023/03/invest-logo.png\" alt=\"\">"
+  },
+  {
+    "tag": "img",
+    "text": "",
+    "html": ""
+  },
+  {
+    "tag": "div",
+    "text": "",
+    "html": "<figure class=\"swiper-slide-inner\"><img decoding=\"async\" class=\"swiper-slide-image\" src=\"https://naserpublicidad.org/wp-content/uploads/2023/03/logo_grupo_vinesta.png\" alt=\"\"></figure>"
+  },
+  {
+    "tag": "figure",
+    "text": "",
+    "html": "<img decoding=\"async\" class=\"swiper-slide-image\" src=\"https://naserpublicidad.org/wp-content/uploads/2023/03/logo_grupo_vinesta.png\" alt=\"\">"
+  },
+  {
+    "tag": "img",
+    "text": "",
+    "html": ""
+  },
+  {
+    "tag": "div",
+    "text": "",
+    "html": "<figure class=\"swiper-slide-inner\"><img decoding=\"async\" class=\"swiper-slide-image\" src=\"https://naserpublicidad.org/wp-content/uploads/2023/03/millenium_logo.png\" alt=\"\"></figure>"
+  },
+  {
+    "tag": "figure",
+    "text": "",
+    "html": "<img decoding=\"async\" class=\"swiper-slide-image\" src=\"https://naserpublicidad.org/wp-content/uploads/2023/03/millenium_logo.png\" alt=\"\">"
+  },
+  {
+    "tag": "img",
+    "text": "",
+    "html": ""
+  },
+  {
+    "tag": "div",
+    "text": "",
+    "html": "<figure class=\"swiper-slide-inner\"><img decoding=\"async\" class=\"swiper-slide-image\" src=\"https://naserpublicidad.org/wp-content/uploads/2023/03/money_gram.png\" alt=\"\"></figure>"
+  },
+  {
+    "tag": "figure",
+    "text": "",
+    "html": "<img decoding=\"async\" class=\"swiper-slide-image\" src=\"https://naserpublicidad.org/wp-content/uploads/2023/03/money_gram.png\" alt=\"\">"
+  },
+  {
+    "tag": "img",
+    "text": "",
+    "html": ""
+  },
+  {
+    "tag": "div",
+    "text": "",
+    "html": "<figure class=\"swiper-slide-inner\"><img decoding=\"async\" class=\"swiper-slide-image\" src=\"https://naserpublicidad.org/wp-content/uploads/2023/03/noticias_uno_logo.png\" alt=\"\"></figure>"
+  },
+  {
+    "tag": "figure",
+    "text": "",
+    "html": "<img decoding=\"async\" class=\"swiper-slide-image\" src=\"https://naserpublicidad.org/wp-content/uploads/2023/03/noticias_uno_logo.png\" alt=\"\">"
+  },
+  {
+    "tag": "img",
+    "text": "",
+    "html": ""
+  },
+  {
+    "tag": "h2",
+    "text": "Tenemos un nuevo\ncaso de éxito, entérate...",
+    "html": "Tenemos un nuevo<br> caso de éxito, entérate..."
+  },
+  {
+    "tag": "h2",
+    "text": "Garmin",
+    "html": "Garmin"
+  },
+  {
+    "tag": "h5",
+    "text": "Desarrollamos para Garmin Colombia su marca olfativa. Ahora sus tiendas tienen esa identidad tecnológica y de aventura que sus clientes respiran al entrar a cada una de ellas.",
+    "html": "Desarrollamos para Garmin Colombia<strong> su marca olfativa. </strong>Ahora sus tiendas tienen\nesa identidad tecnológica y de aventura que <strong>sus clientes respiran</strong> al entrar a cada una de\nellas."
+  },
+  {
+    "tag": "h2",
+    "text": "Samsung",
+    "html": "Samsung"
+  },
+  {
+    "tag": "h5",
+    "text": "Realizamos muchas campañas con Samsung, entre ellas activaciones de marca muy exitosas y fidelización de su cliente interno combinando el arte con la tecnología y la creatividad realmente Experiencias Sensoriales.",
+    "html": "Realizamos muchas campañas con Samsung, entre ellas <strong>activaciones de marca</strong>\nmuy exitosas y fidelización de su cliente interno combinando el arte con la tecnología y la\ncreatividad realmente <strong>Experiencias Sensoriales.</strong>"
+  },
+  {
+    "tag": "div",
+    "text": "“En NASER encontramos el aliado estratégico perfecto, ellos han sido pieza clave\ncon sus muy buenas y creativas ideas”.\n\nNoticias Uno.",
+    "html": "<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t<p>“En NASER encontramos el aliado estratégico perfecto, ellos han sido pieza clave<br>con sus muy buenas y creativas ideas”.</p><p>Noticias Uno.</p>\t\t\t\t\t\t\t\t</div>"
+  },
+  {
+    "tag": "div",
+    "text": "“NASER no sólo ejecuta, toman el tiempo para entender por qué los necesitas para\ncrear lo que pides, pero además el extra que hace que tus campañas y eventos brillen, no\npensaría en usar otra agencia en Colombia”.\n\nPlatzi Inc.",
+    "html": "<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t<p>“NASER no sólo ejecuta, toman el tiempo para entender por qué los necesitas para<br>crear lo que pides, pero además el extra que hace que tus campañas y eventos brillen, no<br>pensaría en usar otra agencia en Colombia”.</p><p>Platzi Inc.</p>\t\t\t\t\t\t\t\t</div>"
+  },
+  {
+    "tag": "div",
+    "text": "“Gracias mil a NASER por apoyarnos en la creación de grandes eventos que lograron\ndejar huella en todos nuestros clientes”. Guatemala/Costa Rica/Colombia.\n\nDHL.",
+    "html": "<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t<p>“Gracias mil a NASER por apoyarnos en la creación de grandes eventos que lograron<br>dejar huella en todos nuestros clientes”. Guatemala/Costa Rica/Colombia.</p><p>DHL.</p>\t\t\t\t\t\t\t\t</div>"
+  },
+  {
+    "tag": "h2",
+    "text": "Paga solo por lo que NECESITES",
+    "html": "Paga solo por lo que <b>NECESITES</b>"
+  },
+  {
+    "tag": "h2",
+    "text": "en NASER te asesoramos",
+    "html": "en NASER te asesoramos"
+  },
+  {
+    "tag": "h2",
+    "text": "¿Quieres destacarte y fidelizar a tus clientes?",
+    "html": "¿Quieres destacarte y fidelizar a tus clientes?"
+  },
+  {
+    "tag": "h2",
+    "text": "Un consejo oportuno te evitará pérdidas de tiempo y dinero",
+    "html": "Un consejo oportuno te evitará pérdidas de tiempo y dinero"
+  },
+  {
+    "tag": "h2",
+    "text": "Los mejores profesionales\nte apoyaran con tu proyecto.\n\n¡Estés donde estés!",
+    "html": "Los mejores profesionales <br>\nte apoyaran con tu proyecto.<br><br><b> ¡Estés donde estés!</b>"
+  },
+  {
+    "tag": "h4",
+    "text": "Te decimos\nqué hacer",
+    "html": "Te decimos <br>\nqué hacer"
+  },
+  {
+    "tag": "h5",
+    "text": "Llamada\nGRATIS",
+    "html": "Llamada <br>\nGRATIS"
+  },
+  {
+    "tag": "h4",
+    "text": "Te contamos cómo hacerlo",
+    "html": "Te contamos cómo hacerlo <br>"
+  },
+  {
+    "tag": "h6",
+    "text": "Agenda Videollamada\nde una hora",
+    "html": "Agenda Videollamada<br>\nde una hora"
+  },
+  {
+    "tag": "h4",
+    "text": "Lo hacemos\npor ti",
+    "html": "Lo hacemos <br>\npor ti"
+  },
+  {
+    "tag": "h6",
+    "text": "¡Hagamos que pase!\ntu proyecto",
+    "html": "¡Hagamos que pase!<br>\ntu proyecto"
+  },
+  {
+    "tag": "h2",
+    "text": "Blog\nLa Voz del Marketing",
+    "html": "Blog <br>La Voz del Marketing"
+  },
+  {
+    "tag": "h3",
+    "text": "Si eres empresario tienes que leer esto",
+    "html": "<a href=\"https://naserpublicidad.org/blog-2/\">Si eres empresario tienes que leer esto</a>"
+  },
+  {
+    "tag": "h2",
+    "text": "Blog La Voz del Marketing",
+    "html": "Blog <br>La Voz del Marketing"
+  },
+  {
+    "tag": "h3",
+    "text": "Si eres empresario tienes que leer esto",
+    "html": "<a href=\"https://naserpublicidad.org/blog-2/\">Si eres empresario tienes que leer esto</a>"
+  },
+  {
+    "tag": "h2",
+    "text": "Proyectos de\nAPORTE SOCIAL",
+    "html": "Proyectos de <br><b>APORTE SOCIAL</b>"
+  },
+  {
+    "tag": "div",
+    "text": "Todos los martes un nuevo tema\n“Empresarios apoyando empresarios”",
+    "html": "<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\tTodos los martes un nuevo tema <br>“Empresarios apoyando empresarios”\t\t\t\t\t\t\t\t</div>"
+  },
+  {
+    "tag": "div",
+    "text": "Iniciativa de Naser para proteger al peatón",
+    "html": "<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t<p>Iniciativa de Naser para proteger al peatón<br></p>\t\t\t\t\t\t\t\t</div>"
+  },
+  {
+    "tag": "div",
+    "text": "“Salvamos vidas”",
+    "html": "<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t<p>&nbsp;“Salvamos vidas”</p>\t\t\t\t\t\t\t\t</div>"
+  },
+  {
+    "tag": "h2",
+    "text": "Escucha nuestra MARCA",
+    "html": "Escucha nuestra <b>MARCA</b>"
+  },
+  {
+    "tag": "h2",
+    "text": "Así puede sonar una experiencia sensorial con tu marca.",
+    "html": "Así puede sonar una experiencia sensorial con tu marca."
+  },
+  {
+    "tag": "h2",
+    "text": "\"Usa audífonos y cierra los ojos\"",
+    "html": "\"Usa audífonos y cierra los ojos\""
+  },
+  {
+    "tag": "h2",
+    "text": "Escucha nuestra MARCA",
+    "html": "Escucha nuestra <b>MARCA</b>"
+  },
+  {
+    "tag": "h2",
+    "text": "Así puede sonar una experiencia sensorial con tu marca.",
+    "html": "Así puede sonar una experiencia sensorial con tu marca."
+  },
+  {
+    "tag": "h2",
+    "text": "\"Usa audífonos y cierra los ojos\"",
+    "html": "\"Usa audífonos y cierra los ojos\""
+  },
+  {
+    "tag": "h2",
+    "text": "Nuestras oficinas",
+    "html": "Nuestras oficinas"
+  },
+  {
+    "tag": "div",
+    "text": "📍Bogotá, Colombia",
+    "html": "<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t<p>📍Bogotá, Colombia</p>\t\t\t\t\t\t\t\t</div>"
+  },
+  {
+    "tag": "div",
+    "text": "📍Estados Unidos, Florida",
+    "html": "<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t<p>📍Estados Unidos,&nbsp;Florida</p>\t\t\t\t\t\t\t\t</div>"
+  },
+  {
+    "tag": "h2",
+    "text": "Accesos",
+    "html": "Accesos"
+  },
+  {
+    "tag": "h2",
+    "text": "Hablemos ya",
+    "html": "Hablemos ya"
+  },
+  {
+    "tag": "h2",
+    "text": "Conéctate",
+    "html": "Conéctate"
+  },
+  {
+    "tag": "p",
+    "text": "Contacto",
+    "html": "<a href=\"https://naserpublicidad.org/contactanos/\">Contacto</a>"
+  },
+  {
+    "tag": "h2",
+    "text": "Redes Sociales",
+    "html": "Redes Sociales"
+  },
+  {
+    "tag": "p",
+    "text": "Política de privacidad",
+    "html": "<a href=\"https://naserpublicidad.org/politica-privacidad/\" target=\"_blank\">Política de privacidad</a>"
+  },
+  {
+    "tag": "p",
+    "text": "Términos de cookies",
+    "html": "Términos de cookies"
+  },
+  {
+    "tag": "p",
+    "text": "<>Créditos & licencias | Naser Publicidad",
+    "html": "&lt;&gt;Créditos &amp; licencias | Naser Publicidad"
+  },
+  {
+    "tag": "p",
+    "text": "Los precios en dólares son estimados, los precios reales serán mostrados, en el proceso de pago PayU",
+    "html": "Los precios en dólares son estimados, los precios reales serán mostrados, en el proceso de pago PayU"
+  }
+]
